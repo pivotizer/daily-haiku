@@ -259,6 +259,13 @@
     "source": "NASA"
   },
   {
+    "date": "2012-10-14",
+    "title": "Terminal",
+    "haiku": "he stepped off a ledge\ntwenty four miles of falling—\nthe sky held its breath",
+    "headline": "Felix Baumgartner skydives from the edge of space",
+    "source": "2012"
+  },
+  {
     "date": "2012-08-06",
     "title": "Skycrane",
     "haiku": "seven minutes, dark,\ncables lowered a robot,\nMars held its red breath",
@@ -287,6 +294,13 @@
     "source": "NASA"
   },
   {
+    "date": "1980-05-08",
+    "title": "Vanished",
+    "haiku": "an ancient killer\nwe hunted it to nothing—\nthe world scarred, but whole",
+    "headline": "The World Health Organization declares smallpox eradicated",
+    "source": "WHO"
+  },
+  {
     "date": "1977-09-05",
     "title": "Mixtape",
     "haiku": "we pressed our whole world\nonto gold, and let it fly,\npast the edge of home",
@@ -299,6 +313,13 @@
     "haiku": "we watched in gray light,\na man stepped onto the moon—\nthe whole earth held still",
     "headline": "Apollo 11 lands the first humans on the Moon",
     "source": "NASA"
+  },
+  {
+    "date": "1967-12-03",
+    "title": "Borrowed",
+    "haiku": "a stranger's engine\nstitched into a dying chest—\nand dawn, it still beat",
+    "headline": "Christiaan Barnard performs the first human heart transplant",
+    "source": "1967"
   },
   {
     "date": "1965-03-18",
@@ -322,11 +343,32 @@
     "source": "1961"
   },
   {
+    "date": "1960-01-23",
+    "title": "Bottom",
+    "haiku": "down past all sunlight,\nseven miles of patient dark—\ntwo men touched the floor",
+    "headline": "The Trieste carries two men to the deepest point of the ocean",
+    "source": "1960"
+  },
+  {
     "date": "1957-10-04",
     "title": "Alarm",
     "haiku": "a beach-ball of steel\nbeeped once round the sleeping earth—\nand nobody slept",
     "headline": "Sputnik launches, opening the Space Age",
     "source": "1957"
+  },
+  {
+    "date": "1955-04-12",
+    "title": "Deliverance",
+    "haiku": "the summers of fear—\na needle ends the long dread,\nchildren swim again",
+    "headline": "The Salk polio vaccine is declared safe and effective",
+    "source": "1955"
+  },
+  {
+    "date": "1954-12-23",
+    "title": "Kinship",
+    "haiku": "two brothers, one blood,\na kidney passed like a gift—\nno war in the flesh",
+    "headline": "Surgeons perform the first successful kidney transplant",
+    "source": "1954"
   },
   {
     "date": "1953-05-29",
@@ -336,11 +378,25 @@
     "source": "1953"
   },
   {
+    "date": "1932-05-21",
+    "title": "Solo",
+    "haiku": "one engine, one girl,\nthe ocean had no vote here—\nIreland met her wheels",
+    "headline": "Amelia Earhart flies solo across the Atlantic",
+    "source": "1932"
+  },
+  {
     "date": "1930-02-18",
     "title": "Runt",
     "haiku": "a farm boy blinked twice\nbetween two star-crowded plates—\none small dot had moved",
     "headline": "Clyde Tombaugh discovers Pluto",
     "source": "1930"
+  },
+  {
+    "date": "1928-09-28",
+    "title": "Bloom",
+    "haiku": "a moldy dish, left\nby pure accident, on this—\ndeath lost its footing",
+    "headline": "Alexander Fleming discovers penicillin",
+    "source": "1928"
   },
   {
     "date": "1927-05-21",
@@ -357,11 +413,25 @@
     "source": "1911"
   },
   {
+    "date": "1885-07-06",
+    "title": "Reprieve",
+    "haiku": "a boy, dog-bitten,\nfourteen shots against the dark—\nthe boy did not turn",
+    "headline": "Louis Pasteur successfully tests his rabies vaccine",
+    "source": "1885"
+  },
+  {
     "date": "1846-09-23",
     "title": "Pencil",
     "haiku": "they aimed a pencil\nat one dark spot in the sky—\nand found a planet",
     "headline": "Neptune is discovered, exactly where mathematics predicted",
     "source": "1846"
+  },
+  {
+    "date": "1796-05-14",
+    "title": "Vacca",
+    "haiku": "a farm boy's cowpox,\none scratch, and the pox lost teeth—\nwe named it vaccine",
+    "headline": "Edward Jenner performs the first vaccination against smallpox",
+    "source": "1796"
   },
   {
     "date": "1610-01-07",
