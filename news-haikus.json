@@ -245,11 +245,25 @@
     "source": "NASA"
   },
   {
+    "date": "2020-12-08",
+    "title": "Threshold",
+    "haiku": "a sleeve rolled at dawn,\nthe whole locked world leaned in close—\none small needle's prick",
+    "headline": "The first person receives a COVID-19 vaccine outside of trials",
+    "source": "2020"
+  },
+  {
     "date": "2019-04-10",
     "title": "Portrait",
     "haiku": "we drew the abyss—\na ring of fire round the dark—\nthe void has a face",
     "headline": "Astronomers reveal the first image ever taken of a black hole",
     "source": "EHT"
+  },
+  {
+    "date": "2016-02-11",
+    "title": "Ripple",
+    "haiku": "two black holes had died\nthe ripple crossed a billion\nyears to chime on earth",
+    "headline": "Scientists announce the first detection of gravitational waves",
+    "source": "LIGO"
   },
   {
     "date": "2015-07-14",
@@ -271,6 +285,20 @@
     "haiku": "seven minutes, dark,\ncables lowered a robot,\nMars held its red breath",
     "headline": "NASA's Curiosity rover lands safely on Mars",
     "source": "NASA"
+  },
+  {
+    "date": "2012-07-04",
+    "title": "Ballast",
+    "haiku": "deep beneath the Alps,\na shy field gave the world its\nweight—we clapped like fools",
+    "headline": "Physicists at CERN announce the discovery of the Higgs boson",
+    "source": "CERN"
+  },
+  {
+    "date": "2003-04-14",
+    "title": "Manual",
+    "haiku": "we spelled out the book\nthree billion letters counted—\nourselves, in plain text",
+    "headline": "The Human Genome Project is completed",
+    "source": "2003"
   },
   {
     "date": "1998-11-20",
@@ -299,6 +327,13 @@
     "haiku": "an ancient killer\nwe hunted it to nothing—\nthe world scarred, but whole",
     "headline": "The World Health Organization declares smallpox eradicated",
     "source": "WHO"
+  },
+  {
+    "date": "1978-07-25",
+    "title": "Kindling",
+    "haiku": "a wish in glass dish\ngrew into a girl who cried—\ntime—and she woke thin",
+    "headline": "Louise Brown, the first baby conceived by IVF, is born",
+    "source": "1978"
   },
   {
     "date": "1977-09-05",
@@ -378,6 +413,13 @@
     "source": "1953"
   },
   {
+    "date": "1953-04-25",
+    "title": "Spiral",
+    "haiku": "two strands climbed and twined,\nthe code of us laid bare in\none photograph's light",
+    "headline": "Watson, Crick and Franklin reveal the structure of DNA",
+    "source": "Nature"
+  },
+  {
     "date": "1932-05-21",
     "title": "Solo",
     "haiku": "one engine, one girl,\nthe ocean had no vote here—\nIreland met her wheels",
@@ -406,6 +448,20 @@
     "source": "1927"
   },
   {
+    "date": "1922-01-11",
+    "title": "Reprieve",
+    "haiku": "the wasting child slept,\na needle full of borrowed\ntime—and she woke thin",
+    "headline": "Insulin is first used to save a young diabetic patient",
+    "source": "1922"
+  },
+  {
+    "date": "1919-11-06",
+    "title": "Curvature",
+    "haiku": "the sun bent starlight,\nand a patent clerk's wild guess\nbecame the whole sky",
+    "headline": "Eclipse observations confirm Einstein's general relativity",
+    "source": "1919"
+  },
+  {
     "date": "1911-12-14",
     "title": "Compass",
     "haiku": "five men on skis found\nthe bottom of the whole world—\na flag, and the wind",
@@ -413,11 +469,25 @@
     "source": "1911"
   },
   {
+    "date": "1895-11-08",
+    "title": "Seethrough",
+    "haiku": "a strange light passed through\nhis wife's hand bloomed into bone—\nthe ring outlived skin",
+    "headline": "Wilhelm Roentgen discovers X-rays",
+    "source": "1895"
+  },
+  {
     "date": "1885-07-06",
     "title": "Reprieve",
     "haiku": "a boy, dog-bitten,\nfourteen shots against the dark—\nthe boy did not turn",
     "headline": "Louis Pasteur successfully tests his rabies vaccine",
     "source": "1885"
+  },
+  {
+    "date": "1846-10-16",
+    "title": "Elsewhere",
+    "haiku": "they cut, he dreamed on\na vapor closed the mind's door—\nno scream, only sleep",
+    "headline": "The first public demonstration of surgical anesthesia",
+    "source": "1846"
   },
   {
     "date": "1846-09-23",
