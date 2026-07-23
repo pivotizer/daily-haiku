@@ -329,6 +329,13 @@
     "source": "NASA"
   },
   {
+    "date": "1996-07-05",
+    "title": "Ewenique",
+    "haiku": "one cell learned a trick\nand grew into wool and legs—\nthe flock gained a twin",
+    "headline": "Dolly the sheep, the first cloned mammal, is born",
+    "source": "1996"
+  },
+  {
     "date": "1990-04-24",
     "title": "Farsight",
     "haiku": "we built an eye and\nflung it past the atmosphere,\nto watch time unfold",
@@ -399,6 +406,13 @@
     "source": "1960"
   },
   {
+    "date": "1958-09-12",
+    "title": "Shrunk",
+    "haiku": "one chip held them all\nresistors, wires, whole circuits—\nshrunk to fit a thumb",
+    "headline": "Jack Kilby demonstrates the first integrated circuit",
+    "source": "1958"
+  },
+  {
     "date": "1957-10-04",
     "title": "Alarm",
     "haiku": "a beach-ball of steel\nbeeped once round the sleeping earth—\nand nobody slept",
@@ -432,6 +446,20 @@
     "haiku": "two strands climbed and twined,\nthe code of us laid bare in\none photograph's light",
     "headline": "Watson, Crick and Franklin reveal the structure of DNA",
     "source": "Nature"
+  },
+  {
+    "date": "1947-12-23",
+    "title": "Switch",
+    "haiku": "three men in a lab\ncoaxed a crystal to say yes—\nthe glass tube grew old",
+    "headline": "Bell Labs demonstrates the first transistor",
+    "source": "1947"
+  },
+  {
+    "date": "1938-12-22",
+    "title": "Holdout",
+    "haiku": "a fossil surfaced\nflapping, blue, and very much\nalive, unaware",
+    "headline": "A living coelacanth, thought extinct for ages, is found alive",
+    "source": "1938"
   },
   {
     "date": "1932-05-21",
@@ -483,6 +511,20 @@
     "source": "1911"
   },
   {
+    "date": "1901-12-12",
+    "title": "Crossing",
+    "haiku": "three faint dots crossed sea\nno ship, no wire, only air—\nthe ocean got small",
+    "headline": "Marconi receives the first transatlantic radio signal",
+    "source": "1901"
+  },
+  {
+    "date": "1898-12-26",
+    "title": "Radiant",
+    "haiku": "she boiled tons of ore\nto find a pinch that glowed blue—\nnight forgot to fall",
+    "headline": "Marie and Pierre Curie announce the discovery of radium",
+    "source": "1898"
+  },
+  {
     "date": "1895-11-08",
     "title": "Seethrough",
     "haiku": "a strange light passed through\nhis wife's hand bloomed into bone—\nthe ring outlived skin",
@@ -495,6 +537,34 @@
     "haiku": "a boy, dog-bitten,\nfourteen shots against the dark—\nthe boy did not turn",
     "headline": "Louis Pasteur successfully tests his rabies vaccine",
     "source": "1885"
+  },
+  {
+    "date": "1879-10-21",
+    "title": "Overtime",
+    "haiku": "a thread of carbon\nburned through the night, refusing\nto blink or give in",
+    "headline": "Edison tests a long-lasting electric light bulb",
+    "source": "1879"
+  },
+  {
+    "date": "1877-11-21",
+    "title": "Echo",
+    "haiku": "a needle traced tin\nand gave the man his own voice\nback to his own ear",
+    "headline": "Edison announces the phonograph, recording sound for the first time",
+    "source": "1877"
+  },
+  {
+    "date": "1876-03-10",
+    "title": "Summons",
+    "haiku": "come here, Watson, please—\na copper wire carried voice\nand the world leaned in",
+    "headline": "Alexander Graham Bell makes the first telephone call",
+    "source": "1876"
+  },
+  {
+    "date": "1859-11-24",
+    "title": "Cousins",
+    "haiku": "all creatures, it turns\nshare one long and branching root—\nwe're kin to the moss",
+    "headline": "Charles Darwin publishes On the Origin of Species",
+    "source": "1859"
   },
   {
     "date": "1846-10-16",
