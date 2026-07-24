@@ -343,6 +343,13 @@
     "source": "1996"
   },
   {
+    "date": "1991-08-06",
+    "title": "Weave",
+    "haiku": "one man strung a thread\nthrough each door around the world\nand called it open",
+    "headline": "Tim Berners-Lee makes the World Wide Web public",
+    "source": "1991"
+  },
+  {
     "date": "1990-04-24",
     "title": "Farsight",
     "haiku": "we built an eye and\nflung it past the atmosphere,\nto watch time unfold",
@@ -369,6 +376,27 @@
     "haiku": "we pressed our whole world\nonto gold, and let it fly,\npast the edge of home",
     "headline": "Voyager 1 launches, carrying the Golden Record to the stars",
     "source": "NASA"
+  },
+  {
+    "date": "1974-11-24",
+    "title": "Kin",
+    "haiku": "bones in the dry wash\nthe radio sang her name\ngrandmother, hello",
+    "headline": "Lucy, an ancient human ancestor, is discovered in Ethiopia",
+    "source": "1974"
+  },
+  {
+    "date": "1971-11-15",
+    "title": "Speck",
+    "haiku": "a grain of desert\nlearns to hold a thought and count\nthe future got small",
+    "headline": "Intel releases the first commercial microprocessor",
+    "source": "1971"
+  },
+  {
+    "date": "1969-10-29",
+    "title": "Lo",
+    "haiku": "we typed out login\nthe wire failed at two letters\nlo, the world began",
+    "headline": "The first message is sent over ARPANET, ancestor of the internet",
+    "source": "1969"
   },
   {
     "date": "1969-07-20",
@@ -497,6 +525,13 @@
     "source": "1927"
   },
   {
+    "date": "1922-11-26",
+    "title": "Wonders",
+    "haiku": "a candle, a crack\ngold glinted back through the dust\nhe breathed: wonders, yes",
+    "headline": "Howard Carter opens the tomb of Tutankhamun",
+    "source": "1922"
+  },
+  {
     "date": "1922-01-11",
     "title": "Reprieve",
     "haiku": "the wasting child slept,\na needle full of borrowed\ntime—and she woke thin",
@@ -515,6 +550,13 @@
     "title": "Compass",
     "haiku": "five men on skis found\nthe bottom of the whole world—\na flag, and the wind",
     "headline": "Roald Amundsen's team reaches the South Pole",
+    "source": "1911"
+  },
+  {
+    "date": "1911-07-24",
+    "title": "Heights",
+    "haiku": "clouds hid a city\nstone stairs climbing to nowhere\nthe world looked up, up",
+    "headline": "Hiram Bingham brings Machu Picchu to the world's attention",
     "source": "1911"
   },
   {
@@ -537,6 +579,13 @@
     "haiku": "a strange light passed through\nhis wife's hand bloomed into bone—\nthe ring outlived skin",
     "headline": "Wilhelm Roentgen discovers X-rays",
     "source": "1895"
+  },
+  {
+    "date": "1888-09-04",
+    "title": "Click",
+    "haiku": "you press the button\nthe rest, he said, is our job\nnow the moment stays",
+    "headline": "George Eastman patents the Kodak roll-film camera",
+    "source": "1888"
   },
   {
     "date": "1885-07-06",
@@ -567,6 +616,20 @@
     "source": "1876"
   },
   {
+    "date": "1872-03-01",
+    "title": "Commons",
+    "haiku": "no fence, no owner\nthe geysers belong to all\nwe saved it for us",
+    "headline": "Yellowstone becomes the world's first national park",
+    "source": "1872"
+  },
+  {
+    "date": "1869-05-10",
+    "title": "Spike",
+    "haiku": "two rails reached for hands\na golden spike rang them shut\nthe coasts shook hands, done",
+    "headline": "The transcontinental railroad is completed at Promontory Summit",
+    "source": "1869"
+  },
+  {
     "date": "1859-11-24",
     "title": "Cousins",
     "haiku": "all creatures, it turns\nshare one long and branching root—\nwe're kin to the moss",
@@ -586,6 +649,13 @@
     "haiku": "they aimed a pencil\nat one dark spot in the sky—\nand found a planet",
     "headline": "Neptune is discovered, exactly where mathematics predicted",
     "source": "1846"
+  },
+  {
+    "date": "1799-07-15",
+    "title": "Key",
+    "haiku": "a slab in the mud\nheld three tongues saying one thing\nthe silence spoke back",
+    "headline": "The Rosetta Stone is found, unlocking ancient hieroglyphs",
+    "source": "1799"
   },
   {
     "date": "1796-05-14",
