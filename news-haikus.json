@@ -350,6 +350,13 @@
     "source": "1996"
   },
   {
+    "date": "1994-05-06",
+    "title": "Handshake",
+    "haiku": "two shores, one long grudge—\na train now slides beneath waves,\nEngland meets France now",
+    "headline": "The Channel Tunnel opens, linking Britain and France",
+    "source": "1994"
+  },
+  {
     "date": "1991-08-06",
     "title": "Weave",
     "haiku": "one man strung a thread\nthrough each door around the world\nand called it open",
@@ -462,6 +469,13 @@
     "source": "1957"
   },
   {
+    "date": "1955-07-17",
+    "title": "Opening",
+    "haiku": "the paint wasn't dry,\nstill, children ran through a dream,\nthe gates stayed open",
+    "headline": "Disneyland opens its gates",
+    "source": "1955"
+  },
+  {
     "date": "1955-04-12",
     "title": "Deliverance",
     "haiku": "the summers of fear—\na needle ends the long dread,\nchildren swim again",
@@ -504,6 +518,20 @@
     "source": "1938"
   },
   {
+    "date": "1937-12-21",
+    "title": "Feature",
+    "haiku": "they called it folly—\na cartoon too long to work,\nthe whole world believed",
+    "headline": "Snow White, the first full-length animated feature, premieres",
+    "source": "1937"
+  },
+  {
+    "date": "1937-05-27",
+    "title": "Span",
+    "haiku": "fog swallowed the strait—\nwe strung two towers, rust-red,\nand walked clean across",
+    "headline": "The Golden Gate Bridge opens to the public",
+    "source": "1937"
+  },
+  {
     "date": "1932-05-21",
     "title": "Solo",
     "haiku": "one engine, one girl,\nthe ocean had no vote here—\nIreland met her wheels",
@@ -511,11 +539,25 @@
     "source": "1932"
   },
   {
+    "date": "1931-05-01",
+    "title": "Skyfloor",
+    "haiku": "hard times, hungry streets—\nstill we raised a spire of steel,\nthe sky gained a floor",
+    "headline": "The Empire State Building opens",
+    "source": "1931"
+  },
+  {
     "date": "1930-02-18",
     "title": "Runt",
     "haiku": "a farm boy blinked twice\nbetween two star-crowded plates—\none small dot had moved",
     "headline": "Clyde Tombaugh discovers Pluto",
     "source": "1930"
+  },
+  {
+    "date": "1928-11-18",
+    "title": "Squeak",
+    "haiku": "a mouse whistled once,\nsound and ink shook hands and grinned,\nthe dark room laughed loud",
+    "headline": "Mickey Mouse debuts in Steamboat Willie",
+    "source": "1928"
   },
   {
     "date": "1928-09-28",
@@ -553,6 +595,13 @@
     "source": "1919"
   },
   {
+    "date": "1914-08-15",
+    "title": "Shortcut",
+    "haiku": "two seas never touched—\nwe cut the waist of the world,\nships walk uphill now",
+    "headline": "The Panama Canal opens",
+    "source": "1914"
+  },
+  {
     "date": "1911-12-14",
     "title": "Compass",
     "haiku": "five men on skis found\nthe bottom of the whole world—\na flag, and the wind",
@@ -586,6 +635,20 @@
     "haiku": "a strange light passed through\nhis wife's hand bloomed into bone—\nthe ring outlived skin",
     "headline": "Wilhelm Roentgen discovers X-rays",
     "source": "1895"
+  },
+  {
+    "date": "1892-12-18",
+    "title": "Sugarplum",
+    "haiku": "a toy soldier wakes,\nsnow falls, sugarplums take flight,\nand mice learn to dance",
+    "headline": "Tchaikovsky's The Nutcracker premieres",
+    "source": "1892"
+  },
+  {
+    "date": "1889-03-31",
+    "title": "Overstay",
+    "haiku": "a stunt, they all said—\niron lace against gray sky,\nit forgot to fall",
+    "headline": "The Eiffel Tower is completed",
+    "source": "1889"
   },
   {
     "date": "1888-09-04",
@@ -656,6 +719,13 @@
     "haiku": "they aimed a pencil\nat one dark spot in the sky—\nand found a planet",
     "headline": "Neptune is discovered, exactly where mathematics predicted",
     "source": "1846"
+  },
+  {
+    "date": "1824-05-07",
+    "title": "Silence",
+    "haiku": "he could not hear it—\njoy poured from a silent man,\nthe hall wept and clapped",
+    "headline": "Beethoven's Ninth Symphony premieres",
+    "source": "1824"
   },
   {
     "date": "1799-07-15",
