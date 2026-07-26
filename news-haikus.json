@@ -350,6 +350,13 @@
     "source": "NASA"
   },
   {
+    "date": "1997-06-26",
+    "title": "Threshold",
+    "haiku": "a boy under stairs,\nfinds a world behind the wall,\nand so do the rest",
+    "headline": "The first Harry Potter book is published",
+    "source": "1997"
+  },
+  {
     "date": "1996-07-05",
     "title": "Ewenique",
     "haiku": "one cell learned a trick\nand grew into wool and legs—\nthe flock gained a twin",
@@ -378,11 +385,25 @@
     "source": "NASA"
   },
   {
+    "date": "1985-07-13",
+    "title": "Broadcast",
+    "haiku": "two stages, one world,\nthe whole planet passed a hat,\nand we all watched close",
+    "headline": "Live Aid unites the world in a concert for famine relief",
+    "source": "1985"
+  },
+  {
     "date": "1980-05-08",
     "title": "Vanished",
     "haiku": "an ancient killer\nwe hunted it to nothing—\nthe world scarred, but whole",
     "headline": "The World Health Organization declares smallpox eradicated",
     "source": "WHO"
+  },
+  {
+    "date": "1980-02-22",
+    "title": "Longshot",
+    "haiku": "twenty kids on skates,\nstood up to the biggest team,\nand time ran out first",
+    "headline": "The U.S. hockey team upsets the Soviets in the Miracle on Ice",
+    "source": "1980"
   },
   {
     "date": "1978-07-25",
@@ -399,6 +420,13 @@
     "source": "NASA"
   },
   {
+    "date": "1977-05-25",
+    "title": "Crawl",
+    "haiku": "the lights went to black\nyellow words climbed into stars,\nand we all believed",
+    "headline": "Star Wars opens in theaters",
+    "source": "1977"
+  },
+  {
     "date": "1974-11-24",
     "title": "Kin",
     "haiku": "bones in the dry wash\nthe radio sang her name\ngrandmother, hello",
@@ -413,10 +441,24 @@
     "source": "1971"
   },
   {
+    "date": "1971-10-11",
+    "title": "Untethered",
+    "haiku": "a piano sighs,\nno heaven, no hell, just us,\nthe world holds its breath",
+    "headline": "John Lennon's Imagine is released",
+    "source": "1971"
+  },
+  {
     "date": "1969-10-29",
     "title": "Lo",
     "haiku": "we typed out login\nthe wire failed at two letters\nlo, the world began",
     "headline": "The first message is sent over ARPANET, ancestor of the internet",
+    "source": "1969"
+  },
+  {
+    "date": "1969-08-15",
+    "title": "Overflow",
+    "haiku": "the fences came down,\nhalf a million found the same\nchord in the same rain",
+    "headline": "The Woodstock festival begins",
     "source": "1969"
   },
   {
@@ -427,10 +469,24 @@
     "source": "NASA"
   },
   {
+    "date": "1969-01-30",
+    "title": "Overhead",
+    "haiku": "cold wind, borrowed amps,\nLondon looked up from its lunch,\nthe roof was the stage",
+    "headline": "The Beatles play their final rooftop concert",
+    "source": "1969"
+  },
+  {
     "date": "1967-12-03",
     "title": "Borrowed",
     "haiku": "a stranger's engine\nstitched into a dying chest—\nand dawn, it still beat",
     "headline": "Christiaan Barnard performs the first human heart transplant",
+    "source": "1967"
+  },
+  {
+    "date": "1967-06-01",
+    "title": "Seasoned",
+    "haiku": "four lads in mustache—\na marching band full of dreams,\nthe needle drops now",
+    "headline": "The Beatles release Sgt. Pepper's Lonely Hearts Club Band",
     "source": "1967"
   },
   {
@@ -497,6 +553,13 @@
     "source": "1954"
   },
   {
+    "date": "1954-05-06",
+    "title": "Unlocked",
+    "haiku": "they said the wall stood,\none thin man ran through the myth,\nand it fell behind",
+    "headline": "Roger Bannister runs the first sub-four-minute mile",
+    "source": "1954"
+  },
+  {
     "date": "1953-05-29",
     "title": "Roof",
     "haiku": "two men cut the last\nfew steps to the roof of earth—\nand stood in thin air",
@@ -515,6 +578,13 @@
     "title": "Switch",
     "haiku": "three men in a lab\ncoaxed a crystal to say yes—\nthe glass tube grew old",
     "headline": "Bell Labs demonstrates the first transistor",
+    "source": "1947"
+  },
+  {
+    "date": "1947-04-15",
+    "title": "Safe",
+    "haiku": "he stood on first base,\nand the whole league held its breath,\nthen he stole for all",
+    "headline": "Jackie Robinson breaks Major League Baseball's color barrier",
     "source": "1947"
   },
   {
