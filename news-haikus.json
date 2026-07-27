@@ -301,6 +301,13 @@
     "source": "EHT"
   },
   {
+    "date": "2016-11-02",
+    "title": "Nextyear",
+    "haiku": "a hundred eight years—\nthe ball dropped, the town exhaled,\nnext year has arrived",
+    "headline": "The Chicago Cubs win the World Series after 108 years",
+    "source": "2016"
+  },
+  {
     "date": "2016-02-11",
     "title": "Ripple",
     "haiku": "two black holes had died\nthe ripple crossed a billion\nyears to chime on earth",
@@ -313,6 +320,13 @@
     "haiku": "nine years through the dark,\nto knock on a frozen door,\nthe dwarf planet smiled",
     "headline": "New Horizons makes humanity's first close flyby of Pluto",
     "source": "NASA"
+  },
+  {
+    "date": "2015-06-26",
+    "title": "Wedlock",
+    "haiku": "the court read the words—\nlove need not ask permission\nnow, the rings went on",
+    "headline": "The U.S. Supreme Court affirms marriage equality nationwide",
+    "source": "2015"
   },
   {
     "date": "2012-10-14",
@@ -343,6 +357,13 @@
     "source": "2003"
   },
   {
+    "date": "1999-07-10",
+    "title": "Unshirted",
+    "haiku": "the ball found the net—\nshe tore off her shirt and screamed,\na sport had arrived",
+    "headline": "The U.S. women's team wins the World Cup on Chastain's kick",
+    "source": "1999"
+  },
+  {
     "date": "1998-11-20",
     "title": "Keel",
     "haiku": "a can in the black\nbecomes the first bolted room—\nwhere no nation ends",
@@ -371,6 +392,13 @@
     "source": "1996"
   },
   {
+    "date": "1994-05-10",
+    "title": "Freeman",
+    "haiku": "the long walk was done\nhe took the oath as free man\na nation stood tall",
+    "headline": "Nelson Mandela is inaugurated as South Africa's president",
+    "source": "1994"
+  },
+  {
     "date": "1994-05-06",
     "title": "Handshake",
     "haiku": "two shores, one long grudge—\na train now slides beneath waves,\nEngland meets France now",
@@ -390,6 +418,20 @@
     "haiku": "we built an eye and\nflung it past the atmosphere,\nto watch time unfold",
     "headline": "The Hubble Space Telescope is launched into orbit",
     "source": "NASA"
+  },
+  {
+    "date": "1990-02-11",
+    "title": "Threshold",
+    "haiku": "twenty-seven years—\nhe walked out slow, fist raised high,\nthe gate stayed open",
+    "headline": "Nelson Mandela walks free after 27 years in prison",
+    "source": "1990"
+  },
+  {
+    "date": "1989-11-09",
+    "title": "Concrete",
+    "haiku": "the guards stepped aside—\nstrangers climbed the wall and hugged,\na city breathed whole",
+    "headline": "The Berlin Wall opens and families reunite",
+    "source": "1989"
   },
   {
     "date": "1985-07-13",
@@ -581,6 +623,13 @@
     "source": "Nature"
   },
   {
+    "date": "1948-12-10",
+    "title": "Fineprint",
+    "haiku": "the world, still bleeding,\nwrote down what a person's owed—\nink dried into law",
+    "headline": "The UN adopts the Universal Declaration of Human Rights",
+    "source": "1948"
+  },
+  {
     "date": "1947-12-23",
     "title": "Switch",
     "haiku": "three men in a lab\ncoaxed a crystal to say yes—\nthe glass tube grew old",
@@ -614,6 +663,13 @@
     "haiku": "fog swallowed the strait—\nwe strung two towers, rust-red,\nand walked clean across",
     "headline": "The Golden Gate Bridge opens to the public",
     "source": "1937"
+  },
+  {
+    "date": "1936-08-09",
+    "title": "Rebuttal",
+    "haiku": "he ran, and the lies—\nfour golds in the tyrant's yard,\nthe crowd roared for him",
+    "headline": "Jesse Owens wins his fourth gold medal at the Berlin Olympics",
+    "source": "1936"
   },
   {
     "date": "1932-05-21",
@@ -670,6 +726,13 @@
     "haiku": "the wasting child slept,\na needle full of borrowed\ntime—and she woke thin",
     "headline": "Insulin is first used to save a young diabetic patient",
     "source": "1922"
+  },
+  {
+    "date": "1920-08-18",
+    "title": "Ballot",
+    "haiku": "one state, then the vote—\nthe ballot box learned her name,\na signature, cast",
+    "headline": "The 19th Amendment secures American women the right to vote",
+    "source": "1920"
   },
   {
     "date": "1919-11-06",
@@ -782,6 +845,13 @@
     "haiku": "two rails reached for hands\na golden spike rang them shut\nthe coasts shook hands, done",
     "headline": "The transcontinental railroad is completed at Promontory Summit",
     "source": "1869"
+  },
+  {
+    "date": "1863-01-01",
+    "title": "Freehand",
+    "haiku": "the new year turned once—\na signature broke the chains,\nmen woke up as men",
+    "headline": "The Emancipation Proclamation takes effect",
+    "source": "1863"
   },
   {
     "date": "1859-11-24",
