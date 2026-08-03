@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-08-03",
+  "title": "Rounds",
+  "haiku": "No duct cools this flat,\nso the mailman checks the pulse—\nold pipes, older hearts.",
+  "headline": "As a heat wave strains France's elderly, postal workers have taken to checking on isolated seniors during their daily rounds.",
+  "source": "NYT"
+ },
+ {
   "date": "2026-08-02",
   "title": "Reflow",
   "haiku": "A valve turned back on\nvaccines flow to children's arms\nthe pipe remembers",
@@ -91,18 +98,18 @@
   "source": "ABC7"
  },
  {
+  "date": "2026-07-18",
+  "title": "Asymmetrical",
+  "haiku": "seven nights of this —\na pump station takes a year;\na missile, seconds",
+  "headline": "Fighting intensifies with strikes on critical infrastructure as US-Iran war widens",
+  "source": "NYT"
+ },
+ {
   "date": "2026-07-16",
   "title": "Sweepingly",
   "haiku": "the sweepers come out\nas they did in every war —\nbrooms outlast bombers",
   "headline": "Kyiv hit again as Ukraine reports two dead in Russian strike",
   "source": "Euronews"
- },
- {
-  "date": "2026-07-15",
-  "title": "Unfenced",
-  "haiku": "fences do come down —\nI have lived long enough, twice,\nto watch walls give up",
-  "headline": "Gibraltar ushers in a new era as border fence with Spain is removed",
-  "source": "AP"
  },
  {
   "date": "2026-07-14",
@@ -138,13 +145,6 @@
   "haiku": "the envoys still fly —\nwhile old men talk, no boy dies\nkeep the coffee hot",
   "headline": "Mediators work to de-escalate US-Iran tensions and revive talks",
   "source": "CNN"
- },
- {
-  "date": "2026-07-09",
-  "title": "Motherless",
-  "haiku": "drones don't have mothers —\nthat's the engineering point —\nsomeone's son still does",
-  "headline": "US, Iran launch more attacks as mediators urge both sides to uphold MoU",
-  "source": "Al Jazeera"
  },
  {
   "date": "2026-07-08",
@@ -203,13 +203,6 @@
   "source": "CNN"
  },
  {
-  "date": "2026-06-30",
-  "title": "Birthright",
-  "haiku": "the court holds the line:\nborn here is born here. full stop.\nsome days we're still us",
-  "headline": "Supreme Court upholds birthright citizenship, ruling against Trump's order",
-  "source": "WaPo"
- },
- {
   "date": "2026-06-29",
   "title": "Applause",
   "haiku": "five days under stone\nand the street still claps for one —\nthat's the whole species",
@@ -224,11 +217,32 @@
   "source": "CNN"
  },
  {
+  "date": "2026-06-27",
+  "title": "Circularity",
+  "haiku": "tit, then tat, then tit —\nI flunked students for logic\nlooped as bad as this",
+  "headline": "US strikes Iranian military sites after tanker attack; Iran retaliates",
+  "source": "CNN"
+ },
+ {
+  "date": "2026-06-26",
+  "title": "Underdogs",
+  "haiku": "the small island wins —\nsomewhere the odds-makers weep\ngood. let them. dance on",
+  "headline": "Cape Verde becomes smallest nation ever to reach World Cup knockout stage",
+  "source": "AP"
+ },
+ {
   "date": "2026-06-25",
   "title": "Anchorage",
   "haiku": "eleven thousand\nhands that move the world's breakfast\nwait on famous men",
   "headline": "UN pauses evacuation of 11,000 seafarers stranded in Strait of Hormuz",
   "source": "Reuters"
+ },
+ {
+  "date": "2026-06-24",
+  "title": "Barehanded",
+  "haiku": "the ground breaks its word —\nneighbors, not governments, dig\nfirst, and bare-handed",
+  "headline": "Twin earthquakes of magnitude 7.2 and 7.5 strike northwestern Venezuela",
+  "source": "AP"
  },
  {
   "date": "2026-06-23",
@@ -252,11 +266,25 @@
   "source": "CNN"
  },
  {
+  "date": "2026-06-20",
+  "title": "Endurance",
+  "haiku": "thirty-two names read —\nthe olive trees keep standing\nas we keep falling",
+  "headline": "Israeli airstrikes kill at least 32 in southern Lebanon",
+  "source": "Reuters"
+ },
+ {
   "date": "2026-06-19",
   "title": "Briefly",
   "haiku": "another ceasefire —\nI believe it like springtime:\nbriefly, completely",
   "headline": "US announces Israel-Hezbollah ceasefire after deadly strikes on Lebanon",
   "source": "AP"
+ },
+ {
+  "date": "2026-06-18",
+  "title": "Reparable",
+  "haiku": "the strait opens wide —\ngulls escort the tankers home\nsee? we can fix things",
+  "headline": "Iran and US sign accord; Strait of Hormuz to reopen as blockades end",
+  "source": "CNN"
  },
  {
   "date": "2022-07-12",
@@ -292,6 +320,13 @@
   "haiku": "flood waters rising—\ndivers thread the flooded dark,\ntwelve boys breathe again",
   "headline": "Twelve boys and their coach are rescued from a flooded Thai cave",
   "source": "2018"
+ },
+ {
+  "date": "2016-11-02",
+  "title": "Nextyear",
+  "haiku": "a hundred eight years—\nthe ball dropped, the town exhaled,\nnext year has arrived",
+  "headline": "The Chicago Cubs win the World Series after 108 years",
+  "source": "2016"
  },
  {
   "date": "2016-02-11",
@@ -336,11 +371,11 @@
   "source": "CERN"
  },
  {
-  "date": "2003-04-14",
-  "title": "Manual",
-  "haiku": "we spelled out the book\nthree billion letters counted—\nourselves, in plain text",
-  "headline": "The Human Genome Project is completed",
-  "source": "2003"
+  "date": "2010-10-13",
+  "title": "Resurface",
+  "haiku": "sixty-nine days dark—\none by one the capsule climbs,\nChile holds its breath",
+  "headline": "All 33 Chilean miners are rescued alive after 69 days underground",
+  "source": "2010"
  },
  {
   "date": "1999-07-10",
@@ -350,11 +385,11 @@
   "source": "1999"
  },
  {
-  "date": "1997-07-04",
-  "title": "Airbag",
-  "haiku": "wrapped in airbags, it\nbounced across the rusted sand,\nAmerica's Mars",
-  "headline": "The Pathfinder mission lands on Mars with the Sojourner rover",
-  "source": "NASA"
+  "date": "1998-11-20",
+  "title": "Keel",
+  "haiku": "a can in the black\nbecomes the first bolted room—\nwhere no nation ends",
+  "headline": "The first module of the International Space Station reaches orbit",
+  "source": "1998"
  },
  {
   "date": "1997-06-26",
@@ -390,13 +425,6 @@
   "haiku": "one man strung a thread\nthrough each door around the world\nand called it open",
   "headline": "Tim Berners-Lee makes the World Wide Web public",
   "source": "1991"
- },
- {
-  "date": "1990-04-24",
-  "title": "Farsight",
-  "haiku": "we built an eye and\nflung it past the atmosphere,\nto watch time unfold",
-  "headline": "The Hubble Space Telescope is launched into orbit",
-  "source": "NASA"
  },
  {
   "date": "1990-02-11",
@@ -490,13 +518,6 @@
   "source": "1969"
  },
  {
-  "date": "1969-07-20",
-  "title": "Overview",
-  "haiku": "we watched in gray light,\na man stepped onto the moon—\nthe whole earth held still",
-  "headline": "Apollo 11 lands the first humans on the Moon",
-  "source": "NASA"
- },
- {
   "date": "1969-01-30",
   "title": "Overhead",
   "haiku": "cold wind, borrowed amps,\nLondon looked up from its lunch,\nthe roof was the stage",
@@ -518,25 +539,18 @@
   "source": "1967"
  },
  {
+  "date": "1965-03-18",
+  "title": "Tether",
+  "haiku": "he stepped out to void,\na thread held one drifting man,\nspace, and he floated",
+  "headline": "Alexei Leonov makes the first spacewalk",
+  "source": "1965"
+ },
+ {
   "date": "1963-08-28",
   "title": "Ascent",
   "haiku": "heat shimmers the mall—\none voice climbs the marble steps\nand will not come down",
   "headline": "Martin Luther King Jr. delivers his I Have a Dream speech",
   "source": "1963"
- },
- {
-  "date": "1961-05-05",
-  "title": "Splashdown",
-  "haiku": "fifteen minutes up,\na splash, a sailor's salute,\nand the free world cheered",
-  "headline": "Alan Shepard becomes the first American in space",
-  "source": "NASA"
- },
- {
-  "date": "1961-04-12",
-  "title": "Outbound",
-  "haiku": "one man, then the sky,\nhe circled the blue marble,\nand came home smiling",
-  "headline": "Yuri Gagarin becomes the first human to reach space",
-  "source": "1961"
  },
  {
   "date": "1960-01-23",
@@ -565,6 +579,20 @@
   "haiku": "the paint wasn't dry,\nstill, children ran through a dream,\nthe gates stayed open",
   "headline": "Disneyland opens its gates",
   "source": "1955"
+ },
+ {
+  "date": "1955-04-12",
+  "title": "Deliverance",
+  "haiku": "the summers of fear—\na needle ends the long dread,\nchildren swim again",
+  "headline": "The Salk polio vaccine is declared safe and effective",
+  "source": "1955"
+ },
+ {
+  "date": "1954-12-23",
+  "title": "Kinship",
+  "haiku": "two brothers, one blood,\na kidney passed like a gift—\nno war in the flesh",
+  "headline": "Surgeons perform the first successful kidney transplant",
+  "source": "1954"
  },
  {
   "date": "1954-05-06",
@@ -602,20 +630,6 @@
   "source": "1947"
  },
  {
-  "date": "1947-04-15",
-  "title": "Safe",
-  "haiku": "he stood on first base,\nand the whole league held its breath,\nthen he stole for all",
-  "headline": "Jackie Robinson breaks Major League Baseball's color barrier",
-  "source": "1947"
- },
- {
-  "date": "1938-12-22",
-  "title": "Holdout",
-  "haiku": "a fossil surfaced\nflapping, blue, and very much\nalive, unaware",
-  "headline": "A living coelacanth, thought extinct for ages, is found alive",
-  "source": "1938"
- },
- {
   "date": "1937-12-21",
   "title": "Feature",
   "haiku": "they called it folly—\na cartoon too long to work,\nthe whole world believed",
@@ -630,25 +644,11 @@
   "source": "1937"
  },
  {
-  "date": "1936-08-09",
-  "title": "Rebuttal",
-  "haiku": "he ran, and the lies—\nfour golds in the tyrant's yard,\nthe crowd roared for him",
-  "headline": "Jesse Owens wins his fourth gold medal at the Berlin Olympics",
-  "source": "1936"
- },
- {
   "date": "1932-05-21",
   "title": "Solo",
   "haiku": "one engine, one girl,\nthe ocean had no vote here—\nIreland met her wheels",
   "headline": "Amelia Earhart flies solo across the Atlantic",
   "source": "1932"
- },
- {
-  "date": "1931-05-01",
-  "title": "Skyfloor",
-  "haiku": "hard times, hungry streets—\nstill we raised a spire of steel,\nthe sky gained a floor",
-  "headline": "The Empire State Building opens",
-  "source": "1931"
  },
  {
   "date": "1930-02-18",
@@ -679,10 +679,10 @@
   "source": "1927"
  },
  {
-  "date": "1922-11-26",
-  "title": "Wonders",
-  "haiku": "a candle, a crack\ngold glinted back through the dust\nhe breathed: wonders, yes",
-  "headline": "Howard Carter opens the tomb of Tutankhamun",
+  "date": "1922-01-11",
+  "title": "Reprieve",
+  "haiku": "the wasting child slept,\na needle full of borrowed\ntime—and she woke thin",
+  "headline": "Insulin is first used to save a young diabetic patient",
   "source": "1922"
  },
  {
@@ -735,13 +735,6 @@
   "source": "1898"
  },
  {
-  "date": "1895-11-08",
-  "title": "Seethrough",
-  "haiku": "a strange light passed through\nhis wife's hand bloomed into bone—\nthe ring outlived skin",
-  "headline": "Wilhelm Roentgen discovers X-rays",
-  "source": "1895"
- },
- {
   "date": "1892-12-18",
   "title": "Sugarplum",
   "haiku": "a toy soldier wakes,\nsnow falls, sugarplums take flight,\nand mice learn to dance",
@@ -770,25 +763,11 @@
   "source": "1885"
  },
  {
-  "date": "1879-10-21",
-  "title": "Overtime",
-  "haiku": "a thread of carbon\nburned through the night, refusing\nto blink or give in",
-  "headline": "Edison tests a long-lasting electric light bulb",
-  "source": "1879"
- },
- {
-  "date": "1877-11-21",
-  "title": "Echo",
-  "haiku": "a needle traced tin\nand gave the man his own voice\nback to his own ear",
-  "headline": "Edison announces the phonograph, recording sound for the first time",
-  "source": "1877"
- },
- {
-  "date": "1872-03-01",
-  "title": "Commons",
-  "haiku": "no fence, no owner\nthe geysers belong to all\nwe saved it for us",
-  "headline": "Yellowstone becomes the world's first national park",
-  "source": "1872"
+  "date": "1876-03-10",
+  "title": "Summons",
+  "haiku": "come here, Watson, please—\na copper wire carried voice\nand the world leaned in",
+  "headline": "Alexander Graham Bell makes the first telephone call",
+  "source": "1876"
  },
  {
   "date": "1869-05-10",
@@ -819,6 +798,13 @@
   "source": "1859"
  },
  {
+  "date": "1846-10-16",
+  "title": "Elsewhere",
+  "haiku": "they cut, he dreamed on\na vapor closed the mind's door—\nno scream, only sleep",
+  "headline": "The first public demonstration of surgical anesthesia",
+  "source": "1846"
+ },
+ {
   "date": "1846-09-23",
   "title": "Pencil",
   "haiku": "they aimed a pencil\nat one dark spot in the sky—\nand found a planet",
@@ -826,11 +812,25 @@
   "source": "1846"
  },
  {
+  "date": "1824-05-07",
+  "title": "Silence",
+  "haiku": "he could not hear it—\njoy poured from a silent man,\nthe hall wept and clapped",
+  "headline": "Beethoven's Ninth Symphony premieres",
+  "source": "1824"
+ },
+ {
   "date": "1799-07-15",
   "title": "Key",
   "haiku": "a slab in the mud\nheld three tongues saying one thing\nthe silence spoke back",
   "headline": "The Rosetta Stone is found, unlocking ancient hieroglyphs",
   "source": "1799"
+ },
+ {
+  "date": "1796-05-14",
+  "title": "Vacca",
+  "haiku": "a farm boy's cowpox,\none scratch, and the pox lost teeth—\nwe named it vaccine",
+  "headline": "Edward Jenner performs the first vaccination against smallpox",
+  "source": "1796"
  },
  {
   "date": "1610-01-07",
